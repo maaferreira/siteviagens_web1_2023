@@ -8,5 +8,9 @@ Site de viagens.
 2. CSS
 3. VSCode
 4. GitHub
-* By Marcos Ferreira *
+
+![Logo do IFPR] (https://github.com/maaferreira/siteviagens_web1_2023/blob/main/ifpr.png)
+
+By Marcos Ferreira
+
 > Written with [StackEdit](https://stackedit.io/).
