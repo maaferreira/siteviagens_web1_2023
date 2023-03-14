@@ -9,7 +9,7 @@ Site de viagens.
 3. VSCode
 4. GitHub
 
-![Logo do IFPR] (https://github.com/maaferreira/siteviagens_web1_2023/blob/main/ifpr.png)
+![Logo do IFPR]https://github.com/maaferreira/siteviagens_web1_2023/blob/main/ifpr.png
 
 By Marcos Ferreira
 
