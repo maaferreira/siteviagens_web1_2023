@@ -200,7 +200,15 @@ header nav p {
 }
 
 .contatos {
-    height: 250px;
-    background: red;
+    height: 500px;
+    background: rgb(30, 255, 0);
+    margin: 35px;
+    font-size: 0.8rem ;
+    font-style: italic;
 
+}
+.contatos .card p{
+    color: rgb(8, 8, 8);
+    font-size: 0.8rem;
+    text-align: right;
 }
